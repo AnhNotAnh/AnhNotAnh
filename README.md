@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anh
-- 👀 I’m interested in ...
+- 👀 I’m interested in Fronted Website and Software Development.
 - 🌱 I’m currently studying Bachelor of IT at UniSA.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to graduate job or internship of Software Developer, Software Engineering.
 - 📫 How to reach me ...
 
 <!---
