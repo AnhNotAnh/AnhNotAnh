@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anh
 - 👀 I’m interested in Game, Website and Software Development.
 - 🌱 I’m currently studying C++, and Game Android (Java).
-- 💞️ I’m looking to graduate job or internship of Software Developer, Software Engineering.
+- 💞️ I’m looking to graduate job or internship of Software Development and Software Engineering.
 - 📫 How to reach me : Please email me via 'quocanh01082020@gmail.com'
 
 <!---
